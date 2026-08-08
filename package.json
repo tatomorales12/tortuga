@@ -1,0 +1,21 @@
+{
+  "name": "tortuga",
+  "version": "1.0.0",
+  "description": "Tortuga - Cada Paso Cuenta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatomorales12/tortuga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tatomorales12/tortuga/issues"
+  },
+  "homepage": "https://github.com/tatomorales12/tortuga#readme"
+}
