@@ -12,5 +12,9 @@ rl.question("¿Cómo te llamas? ", (nombre) => {
     console.log("");
     console.log(`Hola, ${nombre}.`);
     console.log("🐢 Cada paso cuenta.");
-    rl.close();
+
+    rl.question("¿Qué quieres hacer? ", (respuesta) => {
+        console.log(`Has elegido: ${respuesta}.`);
+        rl.close();
+    });
 });
